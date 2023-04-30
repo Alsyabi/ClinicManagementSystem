@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="typeOfIssue">
+        <item>Select Specialist</item>
+        <item>Dr. Atif Aslam- ENT specialist</item>
+        <item>Nadeem Baig- General Physician</item>
+        <item>Humayun saeed- Heart Specialist</item>
+        <item>Faisal Qureshi- Kidney specialist</item>
+        <item>Hamza Aslam- Stomach specialist</item>
+        <item>Samina Riaz-Lungs Specialist</item>
+        <item>Yasmeen Najam- Diabetes Specialist</item>
+        <item>Abdullah habib- Arthritis Specialist</item>
+    </string-array>
+
+</resources>
